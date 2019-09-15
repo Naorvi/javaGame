@@ -1,6 +1,6 @@
 javaGamev1 pseudocode
 
-Declare variables and constants
+Declare variables 
 
 Display intro to the game
 
